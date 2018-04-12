@@ -77,4 +77,4 @@ Set parameters are chosen consider safe driving around the track with 100ms late
 
 ## Video Result
 
-Video result can be found on videos folder [here.](./videos/ScreenCapture_3-22-2018_PM.mp4)
+Video result can be found [![Model Predictve Control](http://img.youtube.com/vi/zGZOGLE_N9o/0.jpg)](https://www.youtube.com/watch?v=zGZOGLE_N9o "MPC")
